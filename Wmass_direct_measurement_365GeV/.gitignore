@@ -1,0 +1,21 @@
+#Python compilation file
+*.pyc
+
+#ROOT file
+*.root
+
+# Executables
+*.exe
+
+# text files
+*txt
+
+
+#folder
+./ee_WW_qqqq*
+wrong_plots/
+debug/
+.idea/
+plots/
+output/
+test_output
